@@ -70,7 +70,8 @@ Customer Churn/
 
 ## 📊 Exploratory Data Analysis (EDA)
 
-### 🗄️ SQL Analysis (`churn_script.sql`)
+### 🗄️ SQL Analysis
+Access queries: [**churn_script.sql**](https://github.com/Lalit-Kumar-DS/customer-sql-python-powerbi-churn-analysis/blob/main/scripts/churn_script.sql)
 - **Q1**: Churn rate by contract type
 - **Q2**: Average monthly charge vs churn
 - **Q3**: Total revenue vs churn
@@ -78,7 +79,9 @@ Customer Churn/
 - **Q5**: Service features vs churn
 - **Q6**: Geographic churn patterns
 
-### 🐍 Python Analysis (`customer_churn_analysis.ipynb`)
+### 🐍 Python Analysis
+Access notebook: [**customer_churn_analysis.ipynb**](https://github.com/Lalit-Kumar-DS/customer-sql-python-powerbi-churn-analysis/blob/main/scripts/customer_churn_analysis.ipynb)
+
 Data exploration, statistics, visualizations, correlation analysis, segmentation, and hypothesis testing.
 
 ---
@@ -100,7 +103,10 @@ Data exploration, statistics, visualizations, correlation analysis, segmentation
 
 ## 📈 Dashboard
 
-### 📊 Power BI Dashboard (`churn_visual.pbix`)
+### 📊 Power BI Dashboard
+Access the dashboard: [**churn_visual.pbix**](https://github.com/Lalit-Kumar-DS/customer-sql-python-powerbi-churn-analysis/blob/main/dashboard/churn_visual.pbix)
+
+**Features**:
 - KPI Cards (churn rate, customer count, revenue)
 - Churn by contract, payment method, service type
 - Geographic heatmap & customer segments
